@@ -1,10 +1,16 @@
 version: '2'
 services:
-  web:
-    build: 
+  nginx:
+    build: DockerFileNginx
     ports:
       - "80:80"
     volumes:
-      - /var/www:
-  redis:
-    image: "redis:alpine"
+      - /var/www:/var/www
+    tty: true
+  mysql:
+    build: DockerFileMysql
+    ports:
+      - "3306:3306"
+    volumes:
+      - /var/lib/mysql:/var/lib/mysql
+    tty: true
