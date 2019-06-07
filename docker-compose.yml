@@ -14,3 +14,10 @@ services:
     volumes:
       - /var/lib/mysql:/var/lib/mysql
     tty: true
+  postgre:
+    build: DockerFilePostgre
+    ports:
+      - "5432:5432"
+    volumes:
+      - /var/lib/postgresql/9.5/main:/var/lib/postgresql/9.5/main
+    tty: true
