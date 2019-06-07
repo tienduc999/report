@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d3903e-86c6-4486-bda5-cc5a31e438be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07-06-2019.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerFilePostgre/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerFilePostgre/pg_hba.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerFilePostgre/postgresql.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-06-2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/07-06-2019.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DockerFileMysql/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/DockerFileMysql/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DockerFileNginx/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/DockerFileNginx/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerFilePostgre/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/DockerFilePostgre/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerFilePostgre/pg_hba.conf" beforeDir="false" afterPath="$PROJECT_DIR$/DockerFilePostgre/pg_hba.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DockerFilePostgre/postgresql.conf" beforeDir="false" afterPath="$PROJECT_DIR$/DockerFilePostgre/postgresql.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/06-06-2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -107,12 +107,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-06-2019.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="399">
-                <caret line="34" column="2" selection-start-line="34" selection-end-line="34" selection-end-column="59" />
+              <first_editor relative-caret-position="438">
+                <caret line="36" column="39" selection-start-line="36" selection-end-line="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -223,12 +223,12 @@
       <workItem from="1559642505810" duration="1385000" />
       <workItem from="1559698624666" duration="20275000" />
       <workItem from="1559783587829" duration="18035000" />
-      <workItem from="1559882341139" duration="8016000" />
+      <workItem from="1559882341139" duration="8222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47711000" />
+    <option name="totallyTimeSpent" value="47917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
@@ -301,16 +301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06-06-2019.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-06-2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -338,8 +328,18 @@
     <entry file="file://$PROJECT_DIR$/07-06-2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="34" column="2" selection-start-line="34" selection-end-line="34" selection-end-column="59" />
+          <first_editor relative-caret-position="438">
+            <caret line="36" column="39" selection-start-line="36" selection-end-line="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-06-2019.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
